@@ -13,10 +13,10 @@ Talita Lânia
 
 Projeto em construção.
 
-[Product Backlog](https://github.com/thaisrabelo/iTruck/blob/master/Backlog.pdf)\n\n
-[Card 1](https://github.com/thaisrabelo/iTruck/blob/master/CARD1.pdf)\n\n
-[Modelo Conceitual](https://github.com/thaisrabelo/iTruck/blob/master/Conceitual_ITruck.pdf)\n\n
-[User Stories](https://github.com/thaisrabelo/iTruck/blob/master/User_Stories.pdf)\n\n
-[Figma](https://www.figma.com/file/YLsupPKrryAfROjeMkvXDj/iTruck-PI2-2020?node-id=0%3A1)\n\n
+[Product Backlog](https://github.com/thaisrabelo/iTruck/blob/master/Backlog.pdf)
+[Card 1](https://github.com/thaisrabelo/iTruck/blob/master/CARD1.pdf)
+[Modelo Conceitual](https://github.com/thaisrabelo/iTruck/blob/master/Conceitual_ITruck.pdf)
+[User Stories](https://github.com/thaisrabelo/iTruck/blob/master/User_Stories.pdf)
+[Figma](https://www.figma.com/file/YLsupPKrryAfROjeMkvXDj/iTruck-PI2-2020?node-id=0%3A1)
 [Protótipo Figma](https://www.figma.com/file/YLsupPKrryAfROjeMkvXDj/iTruck-PI2-2020?node-id=0%3A1)
 
